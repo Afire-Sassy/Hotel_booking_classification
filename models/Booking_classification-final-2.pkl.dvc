@@ -1,0 +1,5 @@
+outs:
+- md5: ef996da7377b10d93a6bed5bbd77514e
+  size: 1022310
+  hash: md5
+  path: Booking_classification-final-2.pkl
